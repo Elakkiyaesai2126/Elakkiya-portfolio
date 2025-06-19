@@ -71,7 +71,7 @@ Muthoot Finance, Erode
 •	Analyzed customer data to identify key demographics and behaviors, 
 leading to the development of targeted marketing campaigns
 
-Link : 
+Link : https://github.com/Elakkiyaesai2126/My-Projects.git
 
 **Internships & Workshops:**
 
