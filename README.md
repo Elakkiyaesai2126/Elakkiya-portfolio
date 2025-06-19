@@ -1,5 +1,13 @@
-# Elakkiya-portfolio
+**Elakkiya Arumugam**
+
+
 **My DataScience Porfolio**
+
+
+
+**Data Scientist | Python & SQL Specialist | Turning Complex Data into Actionable Insights 
+Merging Business Acumen with Advanced Analytics & Machine Learning**
+
 
 **Professional Summary:**
 
