@@ -1,8 +1,12 @@
 # Elakkiya-portfolio
 My DataScience Porfolio
-**Github: https://github.com/Elakkiyaesai2126**
+
 **Professional Summary**
-Motivated and results-driven Data Science professional with hands-on experience in machine learning, data analysis, and visualization. Skilled in interpreting complex datasets and deriving actionable insights to support data-driven decisions. Adept at collaborating across teams and adapting quickly to evolving technical challenges. Seeking a Data Scientist role to leverage analytical skills in dynamic IT environments.
+      Motivated and results-driven Data Science professional with hands-on experience in machine learning,
+      data analysis, and visualization. Skilled in interpreting complex datasets
+      and deriving actionable insights to support data-driven decisions. 
+      Adept at collaborating across teams and adapting quickly to evolving technical challenges.
+      Seeking a Data Scientist role to leverage analytical skills in dynamic IT environments.
 **Core Competencies**
 •	Data Cleaning & Exploratory Data Analysis (EDA)
 •	Machine Learning & Predictive Modeling
